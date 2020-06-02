@@ -1,0 +1,29 @@
+{
+    "spec_version"     : "v1.2",
+    "$kref"            : "#/ckan/spacedock/xxxx",
+    "$vref"            : "#/ckan/ksp-avc",
+    "identifier"       : "TweakScaleCompanion-APlus",
+    "name"             : "TweakScale Companion for Airplane Plus",
+    "abstract"         : ""
+    "license"          : [ "GPL-2.0", "restricted" ]
+    "release_status"   : "development",
+    "x_netkan_force_v" : true,
+    "author": [
+        "LisiasT"
+    ],
+    "install" : [
+        {
+            "file" : "GameData/TweakScaleCompanion/APlus",
+            "install_to" : "GameData/TweakScaleCompanion/APlus"
+        }
+    ],
+    "resources": {
+        "homepage":   "https://forum.kerbalspaceprogram.com/index.php?/topic/192216-*",
+        "repository": "https://github.com/net-lisias-ksp/TweakScaleCompanion_APlus"
+    },
+    "depends" : [
+        { "name" : "ModuleManager", "min_version" : "3.1.1" },
+        { "name" : "TweakScaleCore", "min_version" : "2.4.4" },
+        { "name" : "AirplanePlus" }
+    ]
+}
