@@ -16,7 +16,7 @@ Adds (up to date) TweakScale /L patches for Airplane Plus.
 * Official Distribution Sites:
 	+ [Source and Binaries](https://github.com/net-lisias-ksp/TweakScaleCompanion_APlus) on GitHub.
 	+ [Latest Release](https://github.com/net-lisias-ksp/TweakScaleCompanion_APlus/releases)
-		- [Binaries](https://github.com/net-lisias-ksp/TweakScaleCompanion_APlus/Archive)
+		- [Binaries](https://github.com/net-lisias-ksp/TweakScaleCompanion_APlus/tree/Archive)
 
 
 ## Description
