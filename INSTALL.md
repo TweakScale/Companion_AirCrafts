@@ -8,6 +8,7 @@ Adds (up to date) TweakScale /L patches for Airplane Plus.
 To install, place the GameData folder inside your Kerbal Space Program folder:
 
 * **REMOVE ANY OLD VERSIONS OF THE PRODUCT BEFORE INSTALLING**, including any other fork:
+	+ Delete `<KSP_ROOT>/GameData/TweakScaleCompanion/APlus` (if it's still there)
 	+ Delete `<KSP_ROOT>/GameData/TweakScaleCompanion/APP`
 * Extract the package's `GameData/` folder into your KSP's as follows:
 	+ `<PACKAGE>/GameData/TweakScaleCompanion/APP ` --> `<KSP_ROOT>/GameData/TweakScaleCompanion`

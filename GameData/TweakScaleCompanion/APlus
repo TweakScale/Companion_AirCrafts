@@ -1,0 +1,8 @@
+# ATTENTION
+
+TweakScale Companion for Airplane Plus had changed its place from `GameData/TweakScaleCompanion/APlus` to `GameData/TweakScaleCompanion/APP` 
+to better cope with well known abbreviations on Forum.
+
+This file was created to cause an error if the old directory exists. I hope it did worked. :)
+
+See https://forum.kerbalspaceprogram.com/index.php?/topic/194416-abbreviations-for-addons/
