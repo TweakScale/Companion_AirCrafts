@@ -5,18 +5,18 @@ Adds (up to date) TweakScale /L patches for Airplane Plus.
 
 ## In a Hurry
 
-* [Source](https://github.com/net-lisias-ksp/TweakScaleCompanion_APlus)
-	+ [Issue Tracker](https://github.com/net-lisias-ksp/TweakScaleCompanion_APlus/issues)
+* [Source](https://github.com/net-lisias-ksp/TweakScaleCompanion_APP)
+	+ [Issue Tracker](https://github.com/net-lisias-ksp/TweakScaleCompanion_APP/issues)
 * Documentation
 	+ [Forum](https://forum.kerbalspaceprogram.com/index.php?/topic/192216-tweakscale-companion-program/)
-	+ [Project's README](https://github.com/net-lisias-ksp/TweakScaleCompanion_APlus/blob/master/README.md)
-	+ [Install Instructions](https://github.com/net-lisias-ksp/TweakScaleCompanion_APlus/blob/master/INSTALL.md)
+	+ [Project's README](https://github.com/net-lisias-ksp/TweakScaleCompanion_APP/blob/master/README.md)
+	+ [Install Instructions](https://github.com/net-lisias-ksp/TweakScaleCompanion_APP/blob/master/INSTALL.md)
 	+ [Change Log](./CHANGE_LOG.md)
 	+ [Known Issues](./KNOWN_ISSUES.md)
 * Official Distribution Sites:
-	+ [Source and Binaries](https://github.com/net-lisias-ksp/TweakScaleCompanion_APlus) on GitHub.
-	+ [Latest Release](https://github.com/net-lisias-ksp/TweakScaleCompanion_APlus/releases)
-		- [Binaries](https://github.com/net-lisias-ksp/TweakScaleCompanion_APlus/tree/Archive)
+	+ [Source and Binaries](https://github.com/net-lisias-ksp/TweakScaleCompanion_APP) on GitHub.
+	+ [Latest Release](https://github.com/net-lisias-ksp/TweakScaleCompanion_APP/releases)
+		- [Binaries](https://github.com/net-lisias-ksp/TweakScaleCompanion_APP/tree/Archive)
 
 
 ## Description

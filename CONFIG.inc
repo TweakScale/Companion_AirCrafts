@@ -1,7 +1,7 @@
 source ../CONFIG.inc
 
-PACKAGE=TweakScaleCompanion.APlus
-TARGETDIR="TweakScaleCompanion/APlus"
+PACKAGE=TweakScaleCompanion.APP
+TARGETDIR="TweakScaleCompanion/APP"
 TARGETBINDIR="$TARGETDIR/Plugins"
 PROJECTSDIR="$PACKAGE/"
 DLLS=""
