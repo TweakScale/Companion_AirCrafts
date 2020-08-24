@@ -1,5 +1,8 @@
 # TweakScale Companion :: Airplane Plus :: Change Log
 
+* 2020-0824: 0.0.2.2 (Lisias) for KSP >= 1.2.2
+	+ Patches revision.
+		- Avoiding toe stomping fests. 
 * 2020-0717: 0.0.2.1 Beta (Lisias) for KSP >= 1.2.2
 	+ Patches revision.
 		- Reorganisation
