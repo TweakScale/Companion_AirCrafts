@@ -5,18 +5,18 @@ Adds (up to date) TweakScale /L patches for Airplane Plus.
 
 ## In a Hurry
 
-* [Source](https://github.com/net-lisias-ksp/TweakScaleCompanion_APP)
-	+ [Issue Tracker](https://github.com/net-lisias-ksp/TweakScaleCompanion_APP/issues)
+* [Source](https://github.com/TweakScale/Companion_APP)
+	+ [Issue Tracker](https://github.com/TweakScale/Companion_APP/issues)
 * Documentation
 	+ [Forum](https://forum.kerbalspaceprogram.com/index.php?/topic/192216-tweakscale-companion-program/)
-	+ [Project's README](https://github.com/net-lisias-ksp/TweakScaleCompanion_APP/blob/master/README.md)
-	+ [Install Instructions](https://github.com/net-lisias-ksp/TweakScaleCompanion_APP/blob/master/INSTALL.md)
+	+ [Project's README](https://github.com/TweakScale/Companion_APP/blob/master/README.md)
+	+ [Install Instructions](https://github.com/TweakScale/Companion_APP/blob/master/INSTALL.md)
 	+ [Change Log](./CHANGE_LOG.md)
 	+ [Known Issues](./KNOWN_ISSUES.md)
 * Official Distribution Sites:
-	+ [Source and Binaries](https://github.com/net-lisias-ksp/TweakScaleCompanion_APP) on GitHub.
-	+ [Latest Release](https://github.com/net-lisias-ksp/TweakScaleCompanion_APP/releases)
-		- [Binaries](https://github.com/net-lisias-ksp/TweakScaleCompanion_APP/tree/Archive)
+	+ [Source and Binaries](https://github.com/TweakScale/Companion_APP) on GitHub.
+	+ [Latest Release](https://github.com/TweakScale/Companion_APP/releases)
+		- [Binaries](https://github.com/TweakScale/Companion_APP/tree/Archive)
 
 
 ## Description
@@ -67,7 +67,7 @@ See [NOTICE](./NOTICE) for further copyright and trademarks notices.
 	+ [Forum](https://forum.kerbalspaceprogram.com/index.php?/topic/179030-*/)
 	+ [CurseForge](https://kerbal.curseforge.com/projects/tweakscale)
 	+ [SpaceDock](https://spacedock.info/mod/127/TweakScale)
-	+ [GitHub](https://github.com/net-lisias-ksp/TweakScale)
+	+ [GitHub](https://github.com/TweakScale/net-lisias-ksp)
 * Airplane Plus ([blackheart612](https://forum.kerbalspaceprogram.com/index.php?/profile/42741-blackheart612/))
 	+ [Forum](https://forum.kerbalspaceprogram.com/index.php?/topic/140262-14x-18x-airplane-plus-r264-fixed-issuesgithub-is-up-to-date-dec-21-2019/)
 	+ [CurseForge](https://www.curseforge.com/kerbal/ksp-mods/airplane-plus)
