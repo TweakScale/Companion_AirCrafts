@@ -67,7 +67,7 @@ See [NOTICE](./NOTICE) for further copyright and trademarks notices.
 	+ [Forum](https://forum.kerbalspaceprogram.com/index.php?/topic/179030-*/)
 	+ [CurseForge](https://kerbal.curseforge.com/projects/tweakscale)
 	+ [SpaceDock](https://spacedock.info/mod/127/TweakScale)
-	+ [GitHub](https://github.com/TweakScale/net-lisias-ksp)
+	+ [GitHub](https://github.com/TweakScale/TweakScale)
 * Airplane Plus ([blackheart612](https://forum.kerbalspaceprogram.com/index.php?/profile/42741-blackheart612/))
 	+ [Forum](https://forum.kerbalspaceprogram.com/index.php?/topic/140262-14x-18x-airplane-plus-r264-fixed-issuesgithub-is-up-to-date-dec-21-2019/)
 	+ [CurseForge](https://www.curseforge.com/kerbal/ksp-mods/airplane-plus)
