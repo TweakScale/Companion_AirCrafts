@@ -5,18 +5,18 @@ Adds (up to date) TweakScale /L patches for Neist Airliner Parts.
 
 ## In a Hurry
 
-* [Source](https://github.com/net-lisias-ksp/TweakScaleCompanion_NAP)
-	+ [Issue Tracker](https://github.com/net-lisias-ksp/TweakScaleCompanion_NAP/issues)
+* [Source](https://github.com/TweakScale/Companion_NAP)
+	+ [Issue Tracker](https://github.com/TweakScale/Companion_NAP/issues)
 * Documentation
 	+ [Forum](https://forum.kerbalspaceprogram.com/index.php?/topic/192216-tweakscale-companion-program/)
-	+ [Project's README](https://github.com/net-lisias-ksp/TweakScaleCompanion_NAP/blob/master/README.md)
-	+ [Install Instructions](https://github.com/net-lisias-ksp/TweakScaleCompanion_NAP/blob/master/INSTALL.md)
+	+ [Project's README](https://github.com/TweakScale/Companion_NAP/blob/master/README.md)
+	+ [Install Instructions](https://github.com/TweakScale/Companion_NAP/blob/master/INSTALL.md)
 	+ [Change Log](./CHANGE_LOG.md)
 	+ [Known Issues](./KNOWN_ISSUES.md)
 * Official Distribution Sites:
-	+ [Source and Binaries](https://github.com/net-lisias-ksp/TweakScaleCompanion_NAP) on GitHub.
-	+ [Latest Release](https://github.com/net-lisias-ksp/TweakScaleCompanion_NAP/releases)
-		- [Binaries](https://github.com/net-lisias-ksp/TweakScaleCompanion_NAP/tree/Archive)
+	+ [Source and Binaries](https://github.com/TweakScale/Companion_NAP) on GitHub.
+	+ [Latest Release](https://github.com/TweakScale/Companion_NAP/releases)
+		- [Binaries](https://github.com/TweakScale/Companion_NAP/tree/Archive)
 
 
 ## Description
@@ -67,7 +67,7 @@ See [NOTICE](./NOTICE) for further copyright and trademarks notices.
 	+ [Forum](https://forum.kerbalspaceprogram.com/index.php?/topic/179030-*/)
 	+ [CurseForge](https://kerbal.curseforge.com/projects/tweakscale)
 	+ [SpaceDock](https://spacedock.info/mod/127/TweakScale)
-	+ [GitHub](https://github.com/net-lisias-ksp/TweakScale)
+	+ [GitHub](https://github.com/TweakScale/TweakScale)
 * Neist Airliner Parts ([neistridlar](https://forum.kerbalspaceprogram.com/index.php?/profile/20296-neistridlar/))
 	+ [Forum](https://forum.kerbalspaceprogram.com/index.php?/topic/174152-wip-neist-airliner-parts/)
 	+ Imgur
