@@ -1,10 +1,10 @@
 source ../CONFIG.inc
 
-PACKAGE=TweakScaleCompanion.APP
-TARGETDIR="TweakScaleCompanion/APP"
+PACKAGE=TweakScaleCompanion.Aircrafts
+TARGETDIR="TweakScaleCompanion/AirCrafts"
 TARGETBINDIR="$TARGETDIR/"
 PROJECTSDIR="$PACKAGE/"
-DLLS="TweakScaleCompanion_NF"
+DLLS=""
 
 PROJECT_BRANCH=`git branch | grep \* | cut -d ' ' -f2`
 if [ "$PROJECT_BRANCH" == "master" ] ; then

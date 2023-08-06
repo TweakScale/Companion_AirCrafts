@@ -1,6 +1,6 @@
-# TweakScale Companion :: Airplane Plus
+# TweakScale Companion :: AirCrafts :: INSTALL
 
-Adds (up to date) TweakScale /L patches for Airplane Plus.
+Adds (up to date) TweakScale /L patches for Airplane Plus, Neist Airliner Parts *et all*.
 
 
 ## Installation Instructions
@@ -11,7 +11,7 @@ To install, place the GameData folder inside your Kerbal Space Program folder:
 	+ Delete `<KSP_ROOT>/GameData/TweakScaleCompanion/APlus` (if it's still there)
 	+ Delete `<KSP_ROOT>/GameData/TweakScaleCompanion/APP`
 * Extract the package's `GameData/` folder into your KSP's as follows:
-	+ `<PACKAGE>/GameData/TweakScaleCompanion/APP ` --> `<KSP_ROOT>/GameData/TweakScaleCompanion`
+	+ `<PACKAGE>/GameData/TweakScaleCompanion/AirCrafts ` --> `<KSP_ROOT>/GameData/TweakScaleCompanion`
 		- Overwrite any preexisting file.
 
 The following file layout must be present after installation:
@@ -39,16 +39,16 @@ The following file layout must be present after installation:
 		...
 		[TweakScaleCompanion]
 			[...]
-			[APP]
+			[AirCrafts]
 				CHANGE_LOG.md
 				LICENSE*
 				NOTICE
 				README.md
-				[patches]
+				[APP]
 					...
 			[...]
 	KSP.log
-	PastDatabase.cfg
+	PartDatabase.cfg
 	...
 ```
 

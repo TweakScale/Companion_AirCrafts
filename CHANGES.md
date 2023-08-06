@@ -1,4 +1,4 @@
-# TweakScale Companion :: Airplane Plus :: Changes
+# TweakScale Companion :: AirCrafts :: Changes
 
 * 2021-0201: 0.1.0.0 RC (Lisias) for KSP >= 1.2.2
 	+ TSCAPP goes Release Candidate!
