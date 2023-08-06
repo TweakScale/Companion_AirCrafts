@@ -10,6 +10,7 @@ To install, place the GameData folder inside your Kerbal Space Program folder:
 * **REMOVE ANY OLD VERSIONS OF THE PRODUCT BEFORE INSTALLING**, including any other fork:
 	+ Delete `<KSP_ROOT>/GameData/TweakScaleCompanion/APlus` (if it's still there)
 	+ Delete `<KSP_ROOT>/GameData/TweakScaleCompanion/APP`
+	+ Delete `<KSP_ROOT>/GameData/TweakScaleCompanion/NAP`
 * Extract the package's `GameData/` folder into your KSP's as follows:
 	+ `<PACKAGE>/GameData/TweakScaleCompanion/AirCrafts ` --> `<KSP_ROOT>/GameData/TweakScaleCompanion`
 		- Overwrite any preexisting file.
@@ -46,6 +47,8 @@ The following file layout must be present after installation:
 				README.md
 				[APP]
 					...
+				[NAP]
+					...
 			[...]
 	KSP.log
 	PartDatabase.cfg
@@ -59,6 +62,7 @@ The following file layout must be present after installation:
 	+ **NOT** included
 * Airplane Plus
 	+ **NOT** included 
+* Neist Airplane Parts
+	+ **NOT** included 
 * Module Manager 3.1.1 or later
 	+ **NOT** included
-

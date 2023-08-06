@@ -1,6 +1,6 @@
-# TweakScale Companion :: Airplane Plus
+# TweakScale Companion :: AirCrafts
 
-Adds (up to date) TweakScale /L patches for Airplane Plus.
+Adds (up to date) TweakScale /L patches for Airplane Plus, Neist Airliner Parts *et all*
 
 
 ## In a Hurry
@@ -47,7 +47,7 @@ Detailed installation instructions are now on its own file (see the [In a Hurry]
 			- Adapt : Reuse, modify or incorporate source code into your works (and redistribute it!) 
 		+ Under the following terms:
 			- You retain any copyright notices
-			- You recognize and respect any trademarks
+			- You recognise and respect any trademarks
 			- You don't impersonate the authors, neither redistribute a derivative that could be misrepresented as theirs.
 			- You credit the author and republish the copyright notices on your works where the work is used.
 			- You relicense (and fully comply) your works using GPL 2.0 (or later)
@@ -73,3 +73,9 @@ See [NOTICE](./NOTICE) for further copyright and trademarks notices.
 	+ [CurseForge](https://www.curseforge.com/kerbal/ksp-mods/airplane-plus)
 	+ [SpaceDock](https://spacedock.info/mod/716/Airplane%20Plus)
 	+ [GitHub](https://github.com/blackheart612/AirplanePlus).
+* Neist Airliner Parts ([neistridlar](https://forum.kerbalspaceprogram.com/index.php?/profile/20296-neistridlar/))
+	+ [Forum](https://forum.kerbalspaceprogram.com/index.php?/topic/174152-wip-neist-airliner-parts/)
+	+ Imgur
+		- [Picture Special](https://imgur.com/a/fAViy) 
+		- [Showcase](https://imgur.com/a/ljyIgIH)
+	+ [GitHub](https://github.com/neistridlar/Neist-Airliner-Parts/).
