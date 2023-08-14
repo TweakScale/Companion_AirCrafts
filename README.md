@@ -28,12 +28,16 @@ Adds (up to date) TweakScale /L patches for Airplane Plus, Neist Airliner Parts 
 	+ [CurseForge](https://www.curseforge.com/kerbal/ksp-mods/airplane-plus)
 	+ [SpaceDock](https://spacedock.info/mod/716/Airplane%20Plus)
 	+ [GitHub](https://github.com/blackheart612/AirplanePlus).
-* Neist Airliner Parts ([neistridlar](https://forum.kerbalspaceprogram.com/index.php?/profile/20296-neistridlar/))
-	+ [Forum](https://forum.kerbalspaceprogram.com/index.php?/topic/174152-wip-neist-airliner-parts/)
-	+ Imgur
-		- [Picture Special](https://imgur.com/a/fAViy) 
-		- [Showcase](https://imgur.com/a/ljyIgIH)
-	+ [GitHub](https://github.com/neistridlar/Neist-Airliner-Parts/).
+* Neist Airliner Parts
+	+ Original - [neistridlar](https://forum.kerbalspaceprogram.com/index.php?/profile/20296-neistridlar/)
+		- [Forum](https://forum.kerbalspaceprogram.com/index.php?/topic/174152-wip-neist-airliner-parts/)
+		- Imgur
+			- [Picture Special](https://imgur.com/a/fAViy) 
+			- [Showcase](https://imgur.com/a/ljyIgIH)
+		- [GitHub](https://github.com/neistridlar/Neist-Airliner-Parts/).
+	+ Current - [kerbmario](https://forum.kerbalspaceprogram.com/profile/221047-kerbmario/)
+		- [Forum](https://forum.kerbalspaceprogram.com/topic/208435-*)
+		- [SpaceDock](https://spacedock.info/mod/3034/NeistAir%20Reupdated) 
 
 
 ## Installation
