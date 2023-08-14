@@ -21,7 +21,19 @@ Adds (up to date) TweakScale /L patches for Airplane Plus, Neist Airliner Parts 
 
 ## Description
 
-**TweakScale Companion for Airplane Plus** adds (up to date) [TweakScale /L](https://forum.kerbalspaceprogram.com/index.php?/topic/179030-*/) support for ( surprisingly :P ) [Airplane Plus](https://forum.kerbalspaceprogram.com/index.php?/topic/140262-*/).
+**TweakScale Companion for Airplane Plus** adds (up to date) [TweakScale /L](https://forum.kerbalspaceprogram.com/index.php?/topic/179030-*/) support for the following Add'Ons:
+
+* Airplane Plus ([blackheart612](https://forum.kerbalspaceprogram.com/index.php?/profile/42741-blackheart612/))
+	+ [Forum](https://forum.kerbalspaceprogram.com/index.php?/topic/140262-14x-18x-airplane-plus-r264-fixed-issuesgithub-is-up-to-date-dec-21-2019/)
+	+ [CurseForge](https://www.curseforge.com/kerbal/ksp-mods/airplane-plus)
+	+ [SpaceDock](https://spacedock.info/mod/716/Airplane%20Plus)
+	+ [GitHub](https://github.com/blackheart612/AirplanePlus).
+* Neist Airliner Parts ([neistridlar](https://forum.kerbalspaceprogram.com/index.php?/profile/20296-neistridlar/))
+	+ [Forum](https://forum.kerbalspaceprogram.com/index.php?/topic/174152-wip-neist-airliner-parts/)
+	+ Imgur
+		- [Picture Special](https://imgur.com/a/fAViy) 
+		- [Showcase](https://imgur.com/a/ljyIgIH)
+	+ [GitHub](https://github.com/neistridlar/Neist-Airliner-Parts/).
 
 
 ## Installation
@@ -60,7 +72,7 @@ You have the option to choose the license that best suits you (when applicable).
 See [NOTICE](./NOTICE) for further copyright and trademarks notices.
 
 
-## Refences
+## References
 
 * TweakScale /L ([LisiasT](https://forum.kerbalspaceprogram.com/index.php?/profile/187168-lisias/))
 	+ [Homepage](http://ksp.lisias.net/add-ons/TweakScale) on L Aerospace
@@ -69,14 +81,3 @@ See [NOTICE](./NOTICE) for further copyright and trademarks notices.
 	+ [CurseForge](https://kerbal.curseforge.com/projects/tweakscale)
 	+ [SpaceDock](https://spacedock.info/mod/127/TweakScale)
 	+ [GitHub](https://github.com/TweakScale/TweakScale)
-* Airplane Plus ([blackheart612](https://forum.kerbalspaceprogram.com/index.php?/profile/42741-blackheart612/))
-	+ [Forum](https://forum.kerbalspaceprogram.com/index.php?/topic/140262-14x-18x-airplane-plus-r264-fixed-issuesgithub-is-up-to-date-dec-21-2019/)
-	+ [CurseForge](https://www.curseforge.com/kerbal/ksp-mods/airplane-plus)
-	+ [SpaceDock](https://spacedock.info/mod/716/Airplane%20Plus)
-	+ [GitHub](https://github.com/blackheart612/AirplanePlus).
-* Neist Airliner Parts ([neistridlar](https://forum.kerbalspaceprogram.com/index.php?/profile/20296-neistridlar/))
-	+ [Forum](https://forum.kerbalspaceprogram.com/index.php?/topic/174152-wip-neist-airliner-parts/)
-	+ Imgur
-		- [Picture Special](https://imgur.com/a/fAViy) 
-		- [Showcase](https://imgur.com/a/ljyIgIH)
-	+ [GitHub](https://github.com/neistridlar/Neist-Airliner-Parts/).
