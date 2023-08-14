@@ -23,22 +23,10 @@ Adds (up to date) TweakScale /L patches for Airplane Plus, Neist Airliner Parts 
 
 **TweakScale Companion for Airplane Plus** adds (up to date) [TweakScale /L](https://forum.kerbalspaceprogram.com/index.php?/topic/179030-*/) support for the following Add'Ons:
 
-* Airplane Plus ([blackheart612](https://forum.kerbalspaceprogram.com/index.php?/profile/42741-blackheart612/))
-	+ [Forum](https://forum.kerbalspaceprogram.com/index.php?/topic/140262-14x-18x-airplane-plus-r264-fixed-issuesgithub-is-up-to-date-dec-21-2019/)
-	+ [CurseForge](https://www.curseforge.com/kerbal/ksp-mods/airplane-plus)
-	+ [SpaceDock](https://spacedock.info/mod/716/Airplane%20Plus)
-	+ [GitHub](https://github.com/blackheart612/AirplanePlus).
+* Airplane Plus
 * Neist Airliner Parts
-	+ Original - [neistridlar](https://forum.kerbalspaceprogram.com/index.php?/profile/20296-neistridlar/)
-		- [Forum](https://forum.kerbalspaceprogram.com/index.php?/topic/174152-wip-neist-airliner-parts/)
-		- Imgur
-			- [Picture Special](https://imgur.com/a/fAViy) 
-			- [Showcase](https://imgur.com/a/ljyIgIH)
-		- [GitHub](https://github.com/neistridlar/Neist-Airliner-Parts/).
-	+ Current - [kerbmario](https://forum.kerbalspaceprogram.com/profile/221047-kerbmario/)
-		- [Forum](https://forum.kerbalspaceprogram.com/topic/208435-*)
-		- [SpaceDock](https://spacedock.info/mod/3034/NeistAir%20Reupdated) 
-
+* Stock eXTension - SXT
+  
 
 ## Installation
 
@@ -66,8 +54,7 @@ Detailed installation instructions are now on its own file (see the [In a Hurry]
 			- You recognise and respect any trademarks
 			- You don't impersonate the authors, neither redistribute a derivative that could be misrepresented as theirs.
 			- You credit the author and republish the copyright notices on your works where the work is used.
-			- You relicense (and fully comply) your works using GPL 2.0
-				- Please note that upgrading the license to GPLv3 **IS NOT ALLOWED** for this work, as the author **DID NOT** added the "or (at your option) any later version" on the license.
+			- You relicense (and fully comply) your works using GPL 2.0 (or later)
 			- You don't mix your work with GPL incompatible works.
 	+ If by some reason the GPL would be invalid for you, rest assured that you still retain the right to Use the Work under SKL 1.0.
 
@@ -85,3 +72,26 @@ See [NOTICE](./NOTICE) for further copyright and trademarks notices.
 	+ [CurseForge](https://kerbal.curseforge.com/projects/tweakscale)
 	+ [SpaceDock](https://spacedock.info/mod/127/TweakScale)
 	+ [GitHub](https://github.com/TweakScale/TweakScale)
+* Airplane Plus ([blackheart612](https://forum.kerbalspaceprogram.com/index.php?/profile/42741-blackheart612/))
+	+ [Forum](https://forum.kerbalspaceprogram.com/index.php?/topic/140262-14x-18x-airplane-plus-r264-fixed-issuesgithub-is-up-to-date-dec-21-2019/)
+	+ [CurseForge](https://www.curseforge.com/kerbal/ksp-mods/airplane-plus)
+	+ [SpaceDock](https://spacedock.info/mod/716/Airplane%20Plus)
+	+ [GitHub](https://github.com/blackheart612/AirplanePlus).
+* Neist Airliner Parts
+	+ Original - [neistridlar](https://forum.kerbalspaceprogram.com/index.php?/profile/20296-neistridlar/)
+		- [Forum](https://forum.kerbalspaceprogram.com/index.php?/topic/174152-wip-neist-airliner-parts/)
+		- Imgur
+			- [Picture Special](https://imgur.com/a/fAViy) 
+			- [Showcase](https://imgur.com/a/ljyIgIH)
+		- [GitHub](https://github.com/neistridlar/Neist-Airliner-Parts/).
+	+ Current - [kerbmario](https://forum.kerbalspaceprogram.com/profile/221047-kerbmario/)
+		- [Forum](https://forum.kerbalspaceprogram.com/topic/208435-*)
+		- [SpaceDock](https://spacedock.info/mod/3034/NeistAir%20Reupdated) 
+* Stock eXTension - SXT
+	+ Original - [Lack](https://forum.kerbalspaceprogram.com/profile/47978-lack/)
+		- [Forum](https://forum.kerbalspaceprogram.com/topic/71992-*)
+		- [GitHub](https://github.com/Signatum/SXT)
+	+ Current - [linuxgurugamer](https://forum.kerbalspaceprogram.com/profile/129964-linuxgurugamer/)
+		- [Forum](https://forum.kerbalspaceprogram.com/topic/151129-*)
+		- [SpaceDock](http://spacedock.info/mod/1030/SXTContinued)
+		- [GitHub](https://github.com/linuxgurugamer/SXTContinued/)
