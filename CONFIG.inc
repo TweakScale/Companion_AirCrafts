@@ -1,6 +1,6 @@
 source ../CONFIG.inc
 
-PACKAGE=TweakScaleCompanion.Aircrafts
+PACKAGE=TweakScaleCompanion.AirCrafts
 TARGETDIR="TweakScaleCompanion/AirCrafts"
 TARGETBINDIR="$TARGETDIR/"
 PROJECTSDIR="$PACKAGE/"

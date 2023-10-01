@@ -47,7 +47,11 @@ The following file layout must be present after installation:
 				README.md
 				[APP]
 					...
+				[MPR]
+					...
 				[NAP]
+					...
+				[SXT]
 					...
 			[...]
 	KSP.log
@@ -62,7 +66,11 @@ The following file layout must be present after installation:
 	+ **NOT** included
 * Airplane Plus
 	+ **NOT** included 
+* Moderately Plane Related
+	+ **NOT** included 
 * Neist Airplane Parts
+	+ **NOT** included 
+* SXT
 	+ **NOT** included 
 * Module Manager 3.1.1 or later
 	+ **NOT** included

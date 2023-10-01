@@ -1,5 +1,11 @@
 # TweakScale Companion :: AirCrafts :: Changes
 
+* 2023-1001: 0.2.0.0 RC (Lisias) for KSP >= 1.2.2
+	+ Rebranding the whole thing to TweakScale Companion for AirCrafts
+	+ Reworking APP patches
+	+ Importing (and reworking) patches from the late Companion for NeistAir
+	+ New patches for:
+		- MPR
 * 2021-0201: (APP) 0.1.0.0 RC (Lisias) for KSP >= 1.2.2
 	+ TSCAPP goes Release Candidate!
 	+ Closes issues:
