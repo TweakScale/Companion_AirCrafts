@@ -1,15 +1,11 @@
 # TweakScale Companion :: AirCrafts :: Changes
 
+* 2024-0220: 1.0.0.0 (Lisias) for KSP >= 1.2.2
+	+ TSC_Aircrafts goes Gold!
+	+ Adds support for the new bits from Airplane+ /L 26.6.2
 * 2023-1001: 0.2.0.0 RC (Lisias) for KSP >= 1.2.2
 	+ Rebranding the whole thing to TweakScale Companion for AirCrafts
 	+ Reworking APP patches
 	+ Importing (and reworking) patches from the late Companion for NeistAir
 	+ New patches for:
 		- MPR
-* 2021-0201: (APP) 0.1.0.0 RC (Lisias) for KSP >= 1.2.2
-	+ TSCAPP goes Release Candidate!
-	+ Closes issues:
-		- [#2](https://github.com/TweakScale/Companion_APP/issues/2) Incorrect default scale #2
-			- Thanks for [AccidentalDisassembly](https://github.com/AccidentalDisassembly) for reporting it!
-* 2020-0907: (NAP) 0.0.1.0 **BETA** (Lisias) for KSP >= 1.2.2
-    + First public release
